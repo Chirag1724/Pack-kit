@@ -12,6 +12,20 @@ PackKit transforms your team's development workflow by providing intelligent pac
 
 ---
 
+## All Links & Resources
+
+To provide the most up-to-date resources and a seamless viewing experience, we have centralized our project pitch, demo videos, and presentation deck in our **Official Notion Project Hub**.
+
+[![Project Hub](https://img.shields.io/badge/Notion_Project_Hub-Click_Here-black?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/chiragdwivedi/Packkit-Notion-Project-Hub-31dafc97f12880509fe8e7ba805ebb72?source=copy_link)
+
+> [!IMPORTANT]
+> **Inside the Project Hub, you will find:**
+> - **Demo Video:** A full walkthrough of PackKit's AI features and offline registry.
+> - **Pitch Video:** Our 2-minute vision and problem-solving strategy.
+> - **Pitch Deck (PPT):** Detailed market analysis, technical stack, and future roadmap.
+
+---
+
 ## The Problem
 
 Modern development teams face critical challenges:
